@@ -7,3 +7,5 @@ let str1 = "backend developer";
 const vowels = str1.match(/[aeiou]/gi);
 
 console.log(vowels);
+
+// g- global and i-caseInsesitive
